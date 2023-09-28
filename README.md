@@ -1,5 +1,7 @@
 # Reto
-
+Para iniciar Sesion: 
+password: pruebaSeleccion     
+username: prueba.pass@gmail.com
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
 ## Development server
